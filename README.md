@@ -1,4 +1,4 @@
-# PowerBI-Comprehensive-assessment
+# PowerBI-II nd
 **Covid 19 Data Study**
 ************************
 **Insights**
